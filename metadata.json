@@ -1,0 +1,6 @@
+{
+  "name": "Pool Tournament Manager",
+  "description": "A comprehensive app to manage pool tournaments, players, schedules, and live scoreboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
